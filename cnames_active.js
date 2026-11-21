@@ -2430,6 +2430,7 @@ var cnames_active = {
   "omid": "omidnikrah.github.io/omid",
   "omnistorage": "x-labs-myid.github.io/omnistorage",
   "omniutils": "cname.vercel-dns.com", // noCF
+  "onno": "onnotst.github.io/allinone",
   "onesecret": "kikobeats.github.io/onesecret",
   "ongaku": "anshuman-verma.github.io/ongaku",
   "onii": "oniijs.github.io/onii",
