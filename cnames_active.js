@@ -1511,6 +1511,7 @@ var cnames_active = {
   "html-webpack-plugin": "jantimon.github.io/html-webpack-plugin-repl",
   "htmljar": "syntacstudio.github.io/html-jar",
   "htony": "themetony.github.io/hugo-theme-tony",
+  "http-postgres": "http-postgres.github.io/http-postgres",
   "http4ts": "http4ts.github.io/http4ts",
   "httpfy": "devxprite.github.io/httpfy",
   "httpman": "httpman.github.io",
@@ -1613,6 +1614,7 @@ var cnames_active = {
   "is": "arasatasaygin.github.io/is.js", // noCF? (don´t add this in a new PR)
   "is-number": "ultirequiem.github.io/is-number",
   "isadb": "renato425.github.io/isadb.github.io",
+  "isagent": "ilslaoaycd.github.io/isagent",
   "isbot": "omrilotan.github.io/isbot",
   "iscaptive": "marvnet.github.io/iscaptive",
   "ishan": "ishanthukral.github.io/ishan.js", // noCF? (don´t add this in a new PR)
@@ -1809,6 +1811,7 @@ var cnames_active = {
   "kun": "lmk97.github.io/kun-docs",
   "kunal": "kunalghosh02.github.io",
   "kunkun": "smallkunkun.github.io",
+  "kwiva": "kwivajs.github.io/website",
   "kyoto": "kyotojs.github.io",
   "l2dwidget": "xiazeyu.github.io/live2d-widget.js-doc",
   "lab": "labjs.netlify.app",
@@ -3356,6 +3359,7 @@ var cnames_active = {
   "svelkit": "kenoxa.github.io/svelkit",
   "svelte-aplayer": "fengkx.github.io/svelte-aplayer",
   "svelte-cookie-consent": "sebaofficial.github.io/svelte-cookie-consent",
+  "svelte-dnd": "svelte-dnd.pages.dev",
   "svelte-eagleeye": "webkrafters.github.io/svelte-eagleeye",
   "svelte-formup": "kenoxa.github.io/svelte-formup",
   "svelte-lightbox": "cname.vercel-dns.com", // noCF
@@ -3507,6 +3511,7 @@ var cnames_active = {
   "topbot": "resign05.github.io/TobWebsite",
   "topgg": "topgg-node-sdk-docs.netlify.app",
   "tori": "boostcode.github.io/torijs",
+  "torino": "torinojs.github.io",
   "torlondev": "torlondev.github.io",
   "torpedo": "divysrivastava.github.io/torpedo.js",
   "tra": "trajs-ai.github.io/trajs",
